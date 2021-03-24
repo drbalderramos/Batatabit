@@ -12,3 +12,21 @@
 .plans-container--slider{
     justify-content: center;
 }
+.bitcoin-img-container{
+    background-image: url('../assets/img/bitcoinbaby\ 1.png');
+}
+.header--title-container h1{
+    font-size: 3.3rem;
+
+}
+.header--title-container p{
+    font-size: 1.7rem;
+}
+.header--title-container .header--button{
+    left: calc(50% - 150px);
+    width: 320px;
+    font-size: 1.5rem;
+}
+.header--button span{
+    background-image: url('../assets/icons/down-arrow.svg');
+}
